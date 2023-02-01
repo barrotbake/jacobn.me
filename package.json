@@ -1,6 +1,6 @@
 {
   "name": "jacobn.me",
-  "homepage": "https://github.com/barrotbake/jacobn.me",
+  "homepage": "https://barrotbake.github.io/jacobn.me/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
